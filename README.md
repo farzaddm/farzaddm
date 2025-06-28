@@ -11,7 +11,7 @@
 </p>
 
 <details>
-<summary> 🧠 About Me </summary>
+<summary> 🧠 <strong>About Me</strong> </summary>
 
 I'm a computer engineering student at Iran University of Science and Technology, passionate about learning real-world tech beyond textbooks.
 
