@@ -55,7 +55,7 @@ I'm always looking to learn, build, and collaborate!
 
 ### 💬 Today's Developer Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 🔗 Let's Connect
 
