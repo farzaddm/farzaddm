@@ -53,7 +53,7 @@ I'm always looking to learn, build, and collaborate!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farzaddm&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzaddm&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzaddm&layout=compact&theme=radical&hide=css,scss" height="180em"/>
 </div>
 <!-- <div align="center">
     <img src="https://streak-stats.demolab.com/?user=farzaddm&theme=radical&border=61dafb&hide_border=true" height="180em"/>
