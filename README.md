@@ -37,6 +37,8 @@ I'm always looking to learn, build, and collaborate!
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![Shadcn](https://img.shields.io/badge/-Shadcn-000000?style=flat\&logo=shadcnui\&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/-MUI-007FFF?style=flat\&logo=mui\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
